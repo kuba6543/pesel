@@ -1,3 +1,4 @@
+
 def generator_cyfry_kontrolnej():
     suma=0
     wk=[1,3,7,9,1,3,7,9,1,3,1]
